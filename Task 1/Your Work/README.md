@@ -374,6 +374,8 @@ The system should support:
 
 # CONTEXT DIAGRAM
 
+<img src="images/Screenshot 2026-05-19 110337.png">
+
 ### External Entities
 
 * Candidates
